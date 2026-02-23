@@ -8,10 +8,15 @@ Building scalable batch data pipelines on AWS using distributed data processing 
 ## 🛠️ Tech Stack
 
 **Languages:** Python, SQL  
+
 **Big Data:** Apache Spark, PySpark, Delta Lake, Hive  
+
 **Cloud:** AWS (S3, Glue, Athena, Step Functions, EMR, Redshift, IAM, CloudWatch, KMS), Databricks  
-**Databases:** Microsoft SQL Server, MySQL  
+
+**Databases:** Microsoft SQL Server, MySQL 
+
 **Tools:** Git, Docker, Linux
+
 **Orchestration:** Airflow
 
 ---
