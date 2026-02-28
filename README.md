@@ -24,7 +24,7 @@ Building scalable batch data pipelines on AWS using distributed data processing 
 ## 📂 Featured Projects
 
 ### 🔹 AWS Event-Driven Data Platform
-Medallion-based data lake architecture with schema validation, incremental ingestion, idempotent processing, and IAM-based access control.  
+Medallion-based lakehouse architecture with schema validation, incremental ingestion, idempotent processing, and IAM-based access control.  
 🔗 https://github.com/mjahsan/aws-event-driven-data-platform
 
 ### 🔹 Commerce Data Processing Workflow
