@@ -23,13 +23,13 @@ Building scalable batch data pipelines on AWS using distributed data processing 
 
 ## 📂 Featured Projects
 
-### 🔹 Event-Driven Data Platform (AWS + Databricks)
-Medallion-based lakehouse architecture with schema validation, incremental ingestion, idempotent processing, and IAM-based access control.  
-🔗 https://github.com/mjahsan/aws-event-driven-data-platform
+### 🔹 Event-Driven Lakehouse (AWS + Databricks)
+Medallion-based lakehouse architecture with schema validation, incremental ingestion, idempotent processing (file level and event level), and IAM-based access control.  
+🔗 https://github.com/mjahsan/event-driven-lakehouse
 
-### 🔹 Commerce Data Processing Workflow
+### 🔹 Commerce Data Processing Pipeline (AWS)
 End-to-end ETL pipeline implementing Bronze/Silver/Gold layers with Spark transformations, encryption (KMS), and structured logging.  
-🔗 https://github.com/mjahsan/aws-etl-commerce-data-processing
+🔗 https://github.com/mjahsan/commerce-data-processing-pipeline
 
 ---
 
